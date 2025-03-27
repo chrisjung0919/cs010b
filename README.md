@@ -1,0 +1,1 @@
+Welcome to my collection of projects from CS010B at the University of California, Riverside. These projects were completed during my first year as a Computer Science major and showcase my progress in learning C++.
